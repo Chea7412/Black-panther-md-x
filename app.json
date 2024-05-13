@@ -1,15 +1,15 @@
 {
-  "name": "black panther md 4.0.1",
+  "name": "Xky_ley_3.0🥷🖤",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/kingibrahimtech/Black-panther-md-x/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["PANTHER-MD-X5", "BLACKX5", "PANTHRR MD","PANTHER MD","BLACK","blackpanther"],
+  "logo": "https://telegra.ph/file/bd01f25e0716d0f9c6ad3.jpg",
+  "keywords": ["Xky_ley_3.0", "Xky_leyWaBot", "Xky_ley MD","Xky_ley Xky_ley_3.0"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+      "value": "Xky_ley_3.0🥷🖤",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐵𝐿𝐴𝐶𝐾 𝑃𝐴𝑁𝑇𝐻𝐸𝑅 𝘔𝘋"
+      "value": "Xky_ley_3.0🥷🖤"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
-      "value": "true"
+      "value": "flase"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -90,7 +90,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254710772666,25739937062"
+      "value": "50931118037"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -102,7 +102,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝑃𝐴𝑁𝑇𝐻𝐸𝑅",
+      "value": "Xky_ley_3.0🥷🖤",
       "required": false
     },
     "PACK_AUTHER": {
